@@ -8,4 +8,4 @@ Here you can find
 - the notebook of the project
 
 ### Datasets
-All the dataset we used are the default graph models provided by pyGSP (see https://pygsp.readthedocs.io/en/stable/reference/graphs.html)
+All the dataset we used are the default graph models provided by PyGSP (see https://pygsp.readthedocs.io/en/stable/reference/graphs.html)
